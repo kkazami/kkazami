@@ -11,9 +11,9 @@
 
 ## About me
 
-IT student building full-stack applications and real-world institutional systems. I focus on **Web-Based Systems** with a cross-platform approach — shipping the same product across web, mobile, and desktop from a single codebase.
+IT student building full-stack applications and real-world institutional systems. I focus on **Web-Based Systems** with a cross-platform approach, shipping the same product across web, mobile, and desktop from a single codebase.
 
-Currently architecting **LMS-CDM**, a production-scale Learning Management System designed for CDM colleges — built as a Turborepo monorepo with Next.js, React Native, Electron, PostgreSQL, and Docker.
+Currently architecting **LMS-CDM**, a production-scale Learning Management System designed for Colegio de Montalban, built as a Turborepo monorepo with Next.js, React Native, Electron, PostgreSQL, and Docker.
 
 - 📍 Philippines &nbsp;|&nbsp; 🕐 UTC+8 &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/neil-kirby-amigo-4a7b923b5)
 - 🌐 Focused on scalable web systems with real users in mind
