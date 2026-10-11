@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31409369/README.md)
-<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Neil%20Kirby%20%E2%80%94%20kazami&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=IT%20Student%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Philippines&descAlignY=62&descSize=16&descColor=c4b5fd)
 
